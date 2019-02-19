@@ -13,55 +13,49 @@ if (process.argv[2] === "concert-this") {
 
     axios.get("https://rest.bandsintown.com/artists/" + artist + "/events?app_id=codingbootcamp").then(function (response) {
         var concerts = response.data
-        for (var i = 0; i < concerts.length; i++) {
+        if (response.data[0].venue === null) {
+            console.log("No shows for that band are listed on Spotify")
+        } else {
+            for (var i = 0; i < concerts.length; i++) {
 
-            var venue = ("Venue: " + response.data[i].venue.name);
-            var location = ("Location: " + response.data[i].venue.city + "," + response.data[0].venue.country)
-            var date = ("Date: " + moment(response.data[i].datetime).format("MM/DD/YYYY"));
+                var venue = ("Venue: " + response.data[i].venue.name);
+                var location = ("Location: " + response.data[i].venue.city + "," + response.data[0].venue.country)
+                var date = ("Date: " + moment(response.data[i].datetime).format("MM/DD/YYYY"));
 
-            var toWrite = (venue + "\n" + location + "\n" + date + "\n");
-            console.log(toWrite);
+                var toWrite = (venue + "\n" + location + "\n" + date + "\n");
+                console.log(toWrite);
 
-            fs.appendFile("log.txt", toWrite, function (err) {
-                if (err) {
-                    console.log("Info not added to log")
-                } else {
-                    //sing a happy song!//
-                }
-            })
+                fs.appendFile("log.txt", toWrite, function (err) {
+                    if (err) {
+                        console.log("Info not added to log")
+                    } else {
+                        //sing a happy song!//
+                    }
+                })
+            }
         }
 
     }).catch(function (error) {
-        console.log("No shows for that band are listed on Spotify")
+        if (error) {
+            console.log("No shows for that band are listed on Spotify")
+        }
     })
 
 } else if (process.argv[2] === "spotify-this-song") {
     var song = process.argv.slice(3).join(" ");
     if (song === "") {
-        //I did it this way instead of re-calling the spotify package to save on calls, hope that is ok!//
-        var artist = ("Artist: Ace of Base");
-        var track = ("Song title: The Sign")
-        var album = ("Album: The Sign");
-        var listen = ("Listen: https://open.spotify.com/track/0hrBpAOgrt8RXigk83LLNE")
+        song = "The Sign"
+    }
+    spotify.search({
+            type: 'track',
+            query: song
+        }).then(function (data) {
+            var theTracks = (data.tracks.items)
 
-        var toWrite = (artist + "\n" + track + "\n" + album + "\n" + listen)
-        console.log(toWrite)
-
-        fs.appendFile("log.txt", toWrite, function (error) {
-            if (error) {
-                console.log("No song entered!")
+            if (data.tracks.items[0].album.artists[0] === null) {
+                console.log("Wow, Spotify has never heard of that song! You are a true connoisseur.")
             } else {
-                ///sing "I saw the siiiiiiign"//
-            }
-
-        })
-    } else if (song.length > 0) {
-        spotify.search({
-                type: 'track',
-                query: song
-            }).then(function (data) {
-                var tracks = (data.tracks.items)
-                for (var i = 0; i < tracks.length; i++) {
+                for (var i = 0; i < theTracks.length; i++) {
                     var artist = ("Artist: " + data.tracks.items[i].album.artists[0].name);
                     var track = ("Song title: " + data.tracks.items[i].name)
                     var album = ("Album: " + data.tracks.items[i].album.name);
@@ -78,15 +72,19 @@ if (process.argv[2] === "concert-this") {
                         }
                     })
                 }
-            })
-            .catch(function (error) {
-                console.log("Wow, Spotify has never heard of that song! You are a true connoisseur.")
-                //if you can make this happen I'll be impressed, I couldn't find any keywords that stumped spotify!//
-            })
-    }
+            }
+        })
+        .catch(function (error) {
+            console.log("Wow, Spotify has never heard of that song! You are a true connoisseur.")
+        })
+
 
 } else if (process.argv[2] === "movie-this") {
+
     var movie = process.argv.slice(3).join(" ");
+    if (movie === "") {
+        movie = "Mr Nobody"
+    }
     axios.get("http://www.omdbapi.com/?t=" + movie + "&apikey=3428a5a9").then(function (response) {
 
             var title = ("Title: " + response.data.Title);
@@ -128,15 +126,14 @@ if (process.argv[2] === "concert-this") {
                 var track = ("Song title: " + data.tracks.items[i].name)
                 var album = ("Album: " + data.tracks.items[i].album.name);
                 var listen = ("Listen: " + data.tracks.items[i].external_urls.spotify)
-                
+
                 var toWrite = (artist + "\n" + track + "\n" + album + "\n" + listen + "\n")
                 console.log(toWrite);
 
-                fs.appendFile("log.txt", toWrite, function(error){
-                    if (error){
+                fs.appendFile("log.txt", toWrite, function (error) {
+                    if (error) {
                         console.log("Info not added to log")
-                    }
-                    else{
+                    } else {
                         //do a little dance, make a little love, get down tonight!//
                     }
                 })
