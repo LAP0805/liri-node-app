@@ -44,7 +44,7 @@ if (process.argv[2] === "concert-this") {
 } else if (process.argv[2] === "spotify-this-song") {
     var song = process.argv.slice(3).join(" ");
     if (song === "") {
-        song = "The Sign"
+        song = "The Sign Ace of Base"
     }
     spotify.search({
             type: 'track',

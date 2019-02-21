@@ -1,0 +1,491 @@
+Venue: Spark Arena
+Location: Auckland,New Zealand
+Date: 03/23/2019
+Venue: Brisbane Entertainment Centre
+Location: Boondall,New Zealand
+Date: 03/25/2019
+Venue: Rod Laver Arena
+Location: Melbourne,New Zealand
+Date: 03/27/2019
+Venue: Singapore Indoor Stadium
+Location: Singapore,New Zealand
+Date: 04/01/2019
+Venue: Qudos Bank Arena
+Location: Sydney Olympic Park,New Zealand
+Date: 03/29/2019
+Venue: Hong Kong Convention and Exhibition Center
+Location: Hong Kong,New Zealand
+Date: 04/08/2019
+Venue: IMPACT Arena
+Location: Tambon Ban Mai,New Zealand
+Date: 04/03/2019
+Venue: Indonesia Convention Exhibition
+Location: Tangerang,New Zealand
+Date: 04/05/2019
+Venue: Nippon Budokan
+Location: Chiyoda-ku,New Zealand
+Date: 04/10/2019
+Venue: Dead & Company
+Location: Mountain View,New Zealand
+Date: 05/31/2019
+Venue: Dead & Company
+Location: Los Angeles,New Zealand
+Date: 06/03/2019
+Venue: Dead & Company
+Location: Los Angeles,New Zealand
+Date: 06/04/2019
+Venue: Dead & Company
+Location: Quincy,New Zealand
+Date: 06/07/2019
+Venue: Dead & Company
+Location: Quincy,New Zealand
+Date: 06/08/2019
+Venue: Dead & Company
+Location: Noblesville,New Zealand
+Date: 06/12/2019
+Venue: Dead & Company
+Location: Mountain View,New Zealand
+Date: 06/01/2019
+Venue: Dead & Company
+Location: Chicago,New Zealand
+Date: 06/15/2019
+Venue: Nippon Budokan
+Location: Chiyoda-ku,New Zealand
+Date: 04/11/2019
+Venue: Dead & Company
+Location: Chicago,New Zealand
+Date: 06/14/2019
+Venue: Dead & Company
+Location: Saratoga Springs,New Zealand
+Date: 06/18/2019
+Venue: Dead & Company
+Location: Camden,New Zealand
+Date: 06/20/2019
+Venue: Dead & Company
+Location: New York,New Zealand
+Date: 06/23/2019
+Venue: Dead & Company
+Location: Charlotte,New Zealand
+Date: 06/28/2019
+Venue: Dead & Company
+Location: Atlanta,New Zealand
+Date: 06/29/2019
+Venue: Dead & Company
+Location: Dallas,New Zealand
+Date: 07/02/2019
+Venue: Dead & Company
+Location: Foxborough,New Zealand
+Date: 06/22/2019
+Venue: Dead & Company
+Location: Boulder,New Zealand
+Date: 07/05/2019
+Venue: Times Union Center
+Location: Albany,New Zealand
+Date: 07/19/2019
+Venue: Dead & Company
+Location: Boulder,New Zealand
+Date: 07/06/2019
+Venue: Dunkin Donuts Center
+Location: Providence,New Zealand
+Date: 07/20/2019
+Venue: Dead & Company
+Location: Bristow,New Zealand
+Date: 06/26/2019
+Venue: Wells Fargo CenteR
+Location: Philadelphia,New Zealand
+Date: 07/22/2019
+Venue: Capital One Arena
+Location: Washington,New Zealand
+Date: 07/23/2019
+Venue: Madison Square Garden
+Location: New York,New Zealand
+Date: 07/25/2019
+Venue: Scotiabank Arena
+Location: Toronto,New Zealand
+Date: 07/30/2019
+Venue: Madison Square Garden
+Location: New York,New Zealand
+Date: 07/26/2019
+Venue: Scotiabank Arena
+Location: Toronto,New Zealand
+Date: 07/31/2019
+Venue: PPG Paints Arena
+Location: Pittsburgh,New Zealand
+Date: 07/28/2019
+Venue: Schottenstein Center
+Location: Columbus,New Zealand
+Date: 08/03/2019
+Venue: Xcel Energy Center
+Location: St. Paul,New Zealand
+Date: 08/05/2019
+Venue: Bridgestone Arena
+Location: Nashville,New Zealand
+Date: 08/08/2019
+Venue: Spectrum Center
+Location: Charlotte,New Zealand
+Date: 08/09/2019
+Venue: State Farm Arena
+Location: Atlanta,New Zealand
+Date: 08/11/2019
+Venue: Bankers Life Fieldhouse
+Location: Indianapolis,New Zealand
+Date: 08/12/2019
+Venue: Fiserv Forum
+Location: Milwaukee,New Zealand
+Date: 08/06/2019
+Venue: Little Caesars Arena
+Location: Detroit,New Zealand
+Date: 08/02/2019
+Venue: JAS Labor Day Experience
+Location: Snowmass Village,New Zealand
+Date: 08/31/2019
+Venue: Enterprise Center
+Location: St. Louis,New Zealand
+Date: 09/03/2019
+Venue: United Center
+Location: Chicago,New Zealand
+Date: 08/14/2019
+Venue: American Airlines Center
+Location: Dallas,New Zealand
+Date: 09/05/2019
+Venue: Toyota Center
+Location: Houston,New Zealand
+Date: 09/08/2019
+Venue: Talking Stick Resort Arena
+Location: Phoenix,New Zealand
+Date: 09/10/2019
+Venue: Viejas Arena
+Location: San Diego,New Zealand
+Date: 09/11/2019
+Venue: The Forum
+Location: Los Angeles,New Zealand
+Date: 09/13/2019
+Venue: The Forum
+Location: Los Angeles,New Zealand
+Date: 09/14/2019
+Venue: Sprint Center
+Location: Kansas City,New Zealand
+Date: 09/02/2019
+Venue: AT&T Center
+Location: San Antonio,New Zealand
+Date: 09/07/2019
+Artist: Various Artists
+Song title: Scared of the Dark (feat. XXXTENTACION)
+Album: Spider-Man: Into the Spider-Verse (Soundtrack From & Inspired by the Motion Picture)
+Listen: https://open.spotify.com/track/3vWzyGTu6Ovo1GdrcJqH6e
+Artist: Harry Styles
+Song title: Sign of the Times
+Album: Harry Styles
+Listen: https://open.spotify.com/track/5Ohxk2dO5COHF1krpoPigN
+Artist: Ty Dolla $ign
+Song title: Or Nah (feat. The Weeknd, Wiz Khalifa and DJ Mustard) - Remix
+Album: Or Nah (feat. The Weeknd, Wiz Khalifa and DJ Mustard) [Remix Version]
+Listen: https://open.spotify.com/track/7t2bFihaDvhIrd2gn2CWJO
+Artist: Jeremih
+Song title: Impatient
+Album: Late Nights: The Album
+Listen: https://open.spotify.com/track/3WjyiSbfR74pjWXQ3IaFKJ
+Artist: Harry Styles
+Song title: Sign of the Times
+Album: Sign of the Times
+Listen: https://open.spotify.com/track/5ELRkzdzz0HvGpMDlfZHkV
+Artist: MihTy
+Song title: The Light
+Album: The Light
+Listen: https://open.spotify.com/track/3oCJJksC12uFxkt3RQ7rbV
+Artist: Quality Control
+Song title: Movin’ Up
+Album: Quality Control: Control The Streets Volume 1
+Listen: https://open.spotify.com/track/7jTL6K5hqWDVUH4j2thZrp
+Artist: Ty Dolla $ign
+Song title: Love U Better (feat. Lil Wayne & The-Dream)
+Album: Beach House 3
+Listen: https://open.spotify.com/track/270aLuFCbX32hhBr8MQyPM
+Artist: Mac Miller
+Song title: Cinderella (feat. Ty Dolla $ign)
+Album: The Divine Feminine
+Listen: https://open.spotify.com/track/2lpygKqzPFtItQ4ss3cgfb
+Artist: Ace of Base
+Song title: The Sign
+Album: The Sign (US Album) [Remastered]
+Listen: https://open.spotify.com/track/0hrBpAOgrt8RXigk83LLNE
+Artist: Lil Durk
+Song title: 100 Grand (feat. Ty Dolla $ign & A Boogie wit da Hoodie)
+Album: Signed To The Streets 3
+Listen: https://open.spotify.com/track/55bBVlWgwZ6yw5ccMkDU5j
+Artist: Ty Dolla $ign
+Song title: Droptop in the Rain (feat. Tory Lanez)
+Album: Beach House 3
+Listen: https://open.spotify.com/track/2ZN1EnypRwsD38EoFRwmu9
+Artist: Coldplay
+Song title: Warning Sign
+Album: A Rush Of Blood To The Head
+Listen: https://open.spotify.com/track/4bPkBHKLKd9WHizsvM2zV3
+Artist: Various Artists
+Song title: The Other Side (with MAX & Ty Dolla $ign)
+Album: The Greatest Showman: Reimagined
+Listen: https://open.spotify.com/track/2W5WCpIzIQ2kNzBlUMJGZm
+Artist: Ace of Base
+Song title: All That She Wants
+Album: The Sign (US Album) [Remastered]
+Listen: https://open.spotify.com/track/6kWJvPfC4DgUpRsXKNa9z9
+Artist: Various Artists
+Song title: Sucker For Pain (with Wiz Khalifa, Imagine Dragons, Logic & Ty Dolla $ign feat. X Ambassadors)
+Album: Suicide Squad: The Album
+Listen: https://open.spotify.com/track/7qUJQSNX9QNf46CC6FgH66
+Artist: Juicy J, Wiz Khalifa & Ty Dolla $ign
+Song title: Shell Shocked (feat. Kill The Noise & Madsonik) - From "Teenage Mutant Ninja Turtles"
+Album: Shell Shocked (feat. Kill The Noise & Madsonik) [From "Teenage Mutant Ninja Turtles"]
+Listen: https://open.spotify.com/track/7zBQRGpYImAdIZc97FNj3V
+Artist: MihTy
+Song title: The Light
+Album: MIH-TY
+Listen: https://open.spotify.com/track/0YIfZYYfVytcD1q0Mx57Ey
+Artist: Chance the Rapper
+Song title: Blessings
+Album: Coloring Book
+Listen: https://open.spotify.com/track/5IdQEHgtmj9th3OkfQKhf8
+Artist: The Game
+Song title: Down To Fuck (feat. YG, Ty Dolla $ign, Jeremih)
+Album: Down To Fuck (feat. YG, Ty Dolla $ign, Jeremih)
+Listen: https://open.spotify.com/track/5NEAllh24T2YapWJmuw0j0
+Artist: Backstreet Boys
+Song title: I Want It That Way
+Album: The Hits--Chapter One
+Listen: https://open.spotify.com/track/6e40mgJiCid5HRAGrbpGA6
+Artist: Backstreet Boys
+Song title: I Want It That Way
+Album: Millennium
+Listen: https://open.spotify.com/track/47BBI51FKFwOMlIiX6m8ya
+Artist: Tyler and Mark
+Song title: I Want It That Way
+Album: Beautiful Dreams
+Listen: https://open.spotify.com/track/7k52T0b1v9ktm2gJwlO5yy
+Artist: "Weird Al" Yankovic
+Song title: Ebay (Parody of "I Want It That Way" by the Backstreet Boys)
+Album: Poodle Hat
+Listen: https://open.spotify.com/track/4vHb50VkxDzHYwLiHfWczK
+Artist: Various Artists
+Song title: I Want It That Way
+Album: 90 Sweet 90s Hits!
+Listen: https://open.spotify.com/track/1zCiqxhampG4dcC7HEqPu5
+Artist: Anthem Lights
+Song title: I Want It That Way
+Album: Covers Part IV
+Listen: https://open.spotify.com/track/3Ww6kEWxLh4Ub4WPJ9hMtA
+Artist: Various Artists
+Song title: I Want It That Way
+Album: Punk Goes Pop
+Listen: https://open.spotify.com/track/0F5f29urvisi4TiwJOQZWN
+Artist: Glee Cast
+Song title: Bye Bye Bye / I Want It That Way (Glee Cast Version)
+Album: Bye Bye Bye / I Want It That Way (Glee Cast Version)
+Listen: https://open.spotify.com/track/3t7m7AzV2ntuI9fIT6KREP
+Artist: Manuel Costa
+Song title: I Want It That Way
+Album: I Want It That Way
+Listen: https://open.spotify.com/track/4Sp4RxkWukxqJykl0ySNQi
+Artist: Boyce Avenue
+Song title: I Want It That Way
+Album: Cover Sessions, Vol. 2
+Listen: https://open.spotify.com/track/16COzZ7jCVn3O8b8ZgviOx
+Artist: Scary Pockets
+Song title: I Want It That Way
+Album: Nu Funk
+Listen: https://open.spotify.com/track/4IWQXV01Lp0wsXCXo09EBr
+Artist: Steel Panther
+Song title: I Want It That Way
+Album: I Want It That Way
+Listen: https://open.spotify.com/track/0448cNUvZGCAlUpIPO5kdY
+Artist: Scott Bradlee's Postmodern Jukebox
+Song title: I Want It That Way
+Album: Selfies on Kodachrome
+Listen: https://open.spotify.com/track/1Le3uYU5NU9cXXtYeSWnEM
+Artist: Various Artists
+Song title: I Want It That Way
+Album: Ballads in Bossa (The Colors of Love Ballads)
+Listen: https://open.spotify.com/track/5ZQAX4vaXBxANR1uCRvEsW
+Artist: "Weird Al" Yankovic
+Song title: Ebay (Parody of "I Want It That Way" by the Backstreet Boys)
+Album: The Essential "Weird Al" Yankovic
+Listen: https://open.spotify.com/track/1vaico2C72imYowF4Kv04V
+Artist: #90s Update
+Song title: I Want It That Way
+Album: #90s Update
+Listen: https://open.spotify.com/track/0rZTeneJh7IM5SdoabMcYA
+Artist: Various Artists
+Song title: I Want It That Way
+Album: NOW That's What I Call 90s Pop
+Listen: https://open.spotify.com/track/75W4IDdKhHvRQZpaDx9YPg
+Artist: Scott Bradlee's Postmodern Jukebox
+Song title: I Want It That Way
+Album: PMJ Is For Lovers: The Love Song Collection
+Listen: https://open.spotify.com/track/6FNTpwQU3VNZvezUPYMjPY
+Artist: Kyle Olthoff
+Song title: I Want It That Way
+Album: I Want It That Way
+Listen: https://open.spotify.com/track/1UUw0IsDzxCxJ6v0dlygUy
+Artist: NKOTBSB
+Song title: I Want It That Way
+Album: NKOTBSB
+Listen: https://open.spotify.com/track/2KMwtsWwL5QDtSpm814tju
+Artist: Ace of Base
+Song title: The Sign
+Album: The Sign (US Album) [Remastered]
+Listen: https://open.spotify.com/track/0hrBpAOgrt8RXigk83LLNE
+Artist: Ace of Base
+Song title: All That She Wants
+Album: The Sign (US Album) [Remastered]
+Listen: https://open.spotify.com/track/6kWJvPfC4DgUpRsXKNa9z9
+Artist: Ace of Base
+Song title: Happy Nation
+Album: The Sign (US Album) [Remastered]
+Listen: https://open.spotify.com/track/7fb22pjF62S9r1s1pian5K
+Artist: Ace of Base
+Song title: Don't Turn Around
+Album: The Sign (US Album) [Remastered]
+Listen: https://open.spotify.com/track/4SYMibQ93bfzOk6uzkF0dO
+Artist: Ace of Base
+Song title: The Sign
+Album: Greatest Hits
+Listen: https://open.spotify.com/track/3DYVWvPh3kGwPasp7yjahc
+Artist: Ace of Base
+Song title: Living in Danger
+Album: The Sign (US Album) [Remastered]
+Listen: https://open.spotify.com/track/5ICwDM1fzgqv7HNFUIjPyx
+Artist: Ace of Base
+Song title: Young and Proud
+Album: The Sign (US Album) [Remastered]
+Listen: https://open.spotify.com/track/6sUq6M1iKXQLZHZqefgtEq
+Artist: Ace of Base
+Song title: Wheel of Fortune
+Album: The Sign (US Album) [Remastered]
+Listen: https://open.spotify.com/track/08bZOAr9YLpCLL0Jmtsgbi
+Artist: Ace of Base
+Song title: Dancer in a Daydream
+Album: The Sign (US Album) [Remastered]
+Listen: https://open.spotify.com/track/56r15mfaTXZoGEYBe2FHur
+Artist: Ace of Base
+Song title: Waiting for Magic - Total Remix 7" Version
+Album: The Sign (US Album) [Remastered]
+Listen: https://open.spotify.com/track/21ra9MgsyMTrxCvIPObFGL
+Artist: Ace of Base
+Song title: Voulez-Vous danser
+Album: The Sign (US Album) [Remastered]
+Listen: https://open.spotify.com/track/2F71FlxVyNcoHj3MrHJF5e
+Artist: Ace of Base
+Song title: All That She Wants - Banghra Version
+Album: The Sign (US Album) [Remastered]
+Listen: https://open.spotify.com/track/372oGXavXzqZJp5hzXxZlu
+Artist: Ace of Base
+Song title: Mr Ace - Demo 1991 Bonus Track
+Album: The Sign (US Album) [Remastered]
+Listen: https://open.spotify.com/track/6IcW0DmqcuVESqTIbgkyH8
+Artist: Ace of Base
+Song title: The Sign
+Album: The Sign (The Remixes)
+Listen: https://open.spotify.com/track/3JXzEzQCYrblna7SCaegAm
+Artist: Ace of Base
+Song title: The Sign - Long Version
+Album: The Sign (The Remixes)
+Listen: https://open.spotify.com/track/1csXR5Vn2SgOi7cw0lxJv8
+Artist: Ace of Base
+Song title: The Sign - Ultimix
+Album: The Sign (The Remixes)
+Listen: https://open.spotify.com/track/3sM1ncxPiL0UCBlIVkb637
+Artist: Ace of Base
+Song title: My Mind - Mindless Mix
+Album: The Sign (US Album) [Remastered]
+Listen: https://open.spotify.com/track/2Ol8ieTGPnzi9kVvZ1f7IN
+Artist: Ace of Base
+Song title: The Sign
+Album: Happy Nation (U.S. Version) [Remastered]
+Listen: https://open.spotify.com/track/3Gxku40T2RGPqtLYpFAngP
+Artist: Ace of Base
+Song title: The Sign
+Album: The Sign (The Remixes)
+Listen: https://open.spotify.com/track/2ZkiqOy0WpIXRfj1WP9fyg
+Artist: Ace of Base
+Song title: The Sign - The Remix
+Album: Classic Remixes
+Listen: https://open.spotify.com/track/1FqcC4PddhouGXkd7wc40l
+Artist: "Weird Al" Yankovic
+Song title: Ebay (Parody of "I Want It That Way" by the Backstreet Boys)
+Album: Poodle Hat
+Listen: https://open.spotify.com/track/4vHb50VkxDzHYwLiHfWczK
+Artist: "Weird Al" Yankovic
+Song title: Ebay (Parody of "I Want It That Way" by the Backstreet Boys)
+Album: The Essential "Weird Al" Yankovic
+Listen: https://open.spotify.com/track/1vaico2C72imYowF4Kv04V
+Artist: Lord Boyd
+Song title: I want it That Way (remix of The Backstreet Boys)
+Album: Beyoncé EP (Maybach edition)
+Listen: https://open.spotify.com/track/4Xu81tyty66p1U2NfFv4ka
+Artist: Twinkle Twinkle Little Rock Star
+Song title: I Want It That Way (Lullaby Version of Backstreet Boys)
+Album: Lullaby Versions of Boy Band Classics
+Listen: https://open.spotify.com/track/536a31JtQKdECi2Xfbj3mH
+Artist: Lord Boyd
+Song title: I Want It That Way (Remix of the Backstreet Boys)
+Album: Beyoncé EP (Maybach Edition)
+Listen: https://open.spotify.com/track/6INlPH1ST6IkWUEs6z1zz6
+Artist: The Karaoke Machine
+Song title: I Want It That Way (Backstreet Boys Karaoke Tribute)
+Album: The Karaoke Machine Presents - Backstreet Boys
+Listen: https://open.spotify.com/track/2LmwQDY3NPHBxhFq8kww1R
+Artist: Absolute Karaoke
+Song title: I Want It That Way (Backstreet Boys Karaoke Tribute) - Karaoke Mix
+Album: Absolute Karaoke Presents - Absolute Karaoke Classics Vol. 87
+Listen: https://open.spotify.com/track/3H0n6xhZSCgLzFYg8sXrCK
+Artist: Karaoke Star
+Song title: I Want It That Way (Backstreet Boys Karaoke Tribute)
+Album: Karaoke Star Presents - Backstreet Boys
+Listen: https://open.spotify.com/track/3brJK02b7Em2Vals13BCVG
+Artist: Poptastic Karaoke
+Song title: I Want It That Way (Backstreet Boys Karaoke Tribute) - Karaoke Mix
+Album: Poptastic Karaoke Presents - Top Off The Pops 3 Vol. 43
+Listen: https://open.spotify.com/track/4cjqOeTmTDDBSwqr1VXWhC
+Artist: Absolute Karaoke
+Song title: I Want It That Way (Backstreet Boys Karaoke Tribute) - Karaoke Mix
+Album: Absolute Karaoke Presents - Absolute Karaoke Classics Vol. 2
+Listen: https://open.spotify.com/track/6X1btTfsFCHMr7VJbh3IQq
+Artist: 2016 Dynamo Hitz
+Song title: I Want It That Way - Originally performed by Backstreet Boys
+Album: I Want It That Way
+Listen: https://open.spotify.com/track/6HXfZt942kc0WBRCSjoh6L
+Artist: Poptastik Karaoke
+Song title: I Want It That Way (Backstreet Boys Karaoke Tribute) - Karaoke Mix
+Album: Karaoke Classix Present - Karaoke Smash Hits, Volume 25
+Listen: https://open.spotify.com/track/1acEp6QJjMPOMT26jYH5dM
+Artist: Karaoke Knights
+Song title: I Want It That Way (Tribute To Backstreet Boys) - Karaoke Mix
+Album: Karaoke Knights Present - A 90s Knight Out Vol. 20 - Ninties Karaoke Classics
+Listen: https://open.spotify.com/track/2bVWcNRJEYKZe9sTvbfh0a
+Artist: The Karaoke Channel
+Song title: I Want It That Way (In the Style of Backstreet Boys) [Karaoke Version]
+Album: The Karaoke Channel - Sing I Want It That Way Like Backstreet Boys
+Listen: https://open.spotify.com/track/3fkSiEmibbXLp220Ba8c1B
+Artist: Players Since Creation
+Song title: I Want It That Way - Backstreet Boys
+Album: Difference in the Key
+Listen: https://open.spotify.com/track/4PqWXIOFL6GN7YnB6NHxMt
+Artist: Paris Music
+Song title: I Want It That Way (Originally Performed By Backstreet Boys) [Full Vocal Version]
+Album: Karaoke Hits 90's, Vol. 7
+Listen: https://open.spotify.com/track/0yAh33jmHIHLeSzPqQbTDM
+Artist: Billboard Karaoke
+Song title: I Want It That Way (Made Popular By Backstreet Boys) [Karaoke Version]
+Album: Billboard Karaoke - Top 10 Box Set (Vol. 6)
+Listen: https://open.spotify.com/track/0g7ez0490Y7vQET4XwstvG
+Artist: Party Tyme Karaoke
+Song title: I Want It That Way (Made Popular By Backstreet Boys) [Karaoke Version]
+Album: Party Tyme Karaoke - Pop Party Pack 1
+Listen: https://open.spotify.com/track/7gV5SQYgGNmr75J9pYUPhg
+Artist: The Karaoke Party Poppers
+Song title: I Want It That Way (Originally Performed by Backstreet Boys) [Karaoke Version]
+Album: Karaoke Party Album - 100 Hits, Vol. 1
+Listen: https://open.spotify.com/track/4N7mFC4wf6qUHQ7A3mINF2
+Artist: The Karaoke Channel
+Song title: I Want It That Way
+Album: The Karaoke Channel - Sing I Want It That Way Like Backstreet Boys
+Listen: https://open.spotify.com/track/28iMkJsNbnhoc0tR5CBhZ5
