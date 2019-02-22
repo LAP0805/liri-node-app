@@ -1,0 +1,449 @@
+
+Venue: Spark Arena
+Location: Auckland,New Zealand
+Date: 03/23/2019
+
+Venue: Brisbane Entertainment Centre
+Location: Boondall,New Zealand
+Date: 03/25/2019
+
+Venue: Rod Laver Arena
+Location: Melbourne,New Zealand
+Date: 03/27/2019
+
+Venue: Singapore Indoor Stadium
+Location: Singapore,New Zealand
+Date: 04/01/2019
+
+Venue: Qudos Bank Arena
+Location: Sydney Olympic Park,New Zealand
+Date: 03/29/2019
+
+Venue: IMPACT Arena
+Location: Tambon Ban Mai,New Zealand
+Date: 04/03/2019
+
+Venue: Indonesia Convention Exhibition
+Location: Tangerang,New Zealand
+Date: 04/05/2019
+
+Venue: Hong Kong Convention and Exhibition Center
+Location: Hong Kong,New Zealand
+Date: 04/08/2019
+
+Venue: Nippon Budokan
+Location: Chiyoda-ku,New Zealand
+Date: 04/11/2019
+
+Venue: Dead & Company
+Location: Mountain View,New Zealand
+Date: 05/31/2019
+
+Venue: Dead & Company
+Location: Mountain View,New Zealand
+Date: 06/01/2019
+
+Venue: Dead & Company
+Location: Los Angeles,New Zealand
+Date: 06/03/2019
+
+Venue: Nippon Budokan
+Location: Chiyoda-ku,New Zealand
+Date: 04/10/2019
+
+Venue: Dead & Company
+Location: Los Angeles,New Zealand
+Date: 06/04/2019
+
+Venue: Dead & Company
+Location: Quincy,New Zealand
+Date: 06/07/2019
+
+Venue: Dead & Company
+Location: Quincy,New Zealand
+Date: 06/08/2019
+
+Venue: Dead & Company
+Location: Noblesville,New Zealand
+Date: 06/12/2019
+
+Venue: Dead & Company
+Location: Chicago,New Zealand
+Date: 06/14/2019
+
+Venue: Dead & Company
+Location: Chicago,New Zealand
+Date: 06/15/2019
+
+Venue: Dead & Company
+Location: Saratoga Springs,New Zealand
+Date: 06/18/2019
+
+Venue: Dead & Company
+Location: Camden,New Zealand
+Date: 06/20/2019
+
+Venue: Dead & Company
+Location: Foxborough,New Zealand
+Date: 06/22/2019
+
+Venue: Dead & Company
+Location: New York,New Zealand
+Date: 06/23/2019
+
+Venue: Dead & Company
+Location: Bristow,New Zealand
+Date: 06/26/2019
+
+Venue: Dead & Company
+Location: Charlotte,New Zealand
+Date: 06/28/2019
+
+Venue: Dead & Company
+Location: Atlanta,New Zealand
+Date: 06/29/2019
+
+Venue: Dead & Company
+Location: Dallas,New Zealand
+Date: 07/02/2019
+
+Venue: Dead & Company
+Location: Boulder,New Zealand
+Date: 07/05/2019
+
+Venue: Dead & Company
+Location: Boulder,New Zealand
+Date: 07/06/2019
+
+Venue: Times Union Center
+Location: Albany,New Zealand
+Date: 07/19/2019
+
+Venue: Dunkin Donuts Center
+Location: Providence,New Zealand
+Date: 07/20/2019
+
+Venue: Wells Fargo CenteR
+Location: Philadelphia,New Zealand
+Date: 07/22/2019
+
+Venue: Capital One Arena
+Location: Washington,New Zealand
+Date: 07/23/2019
+
+Venue: Madison Square Garden
+Location: New York,New Zealand
+Date: 07/25/2019
+
+Venue: Madison Square Garden
+Location: New York,New Zealand
+Date: 07/26/2019
+
+Venue: PPG Paints Arena
+Location: Pittsburgh,New Zealand
+Date: 07/28/2019
+
+Venue: Scotiabank Arena
+Location: Toronto,New Zealand
+Date: 07/30/2019
+
+Venue: Scotiabank Arena
+Location: Toronto,New Zealand
+Date: 07/31/2019
+
+Venue: Little Caesars Arena
+Location: Detroit,New Zealand
+Date: 08/02/2019
+
+Venue: Schottenstein Center
+Location: Columbus,New Zealand
+Date: 08/03/2019
+
+Venue: Xcel Energy Center
+Location: St. Paul,New Zealand
+Date: 08/05/2019
+
+Venue: Fiserv Forum
+Location: Milwaukee,New Zealand
+Date: 08/06/2019
+
+Venue: Bridgestone Arena
+Location: Nashville,New Zealand
+Date: 08/08/2019
+
+Venue: Spectrum Center
+Location: Charlotte,New Zealand
+Date: 08/09/2019
+
+Venue: State Farm Arena
+Location: Atlanta,New Zealand
+Date: 08/11/2019
+
+Venue: Bankers Life Fieldhouse
+Location: Indianapolis,New Zealand
+Date: 08/12/2019
+
+Venue: United Center
+Location: Chicago,New Zealand
+Date: 08/14/2019
+
+Venue: JAS Labor Day Experience
+Location: Snowmass Village,New Zealand
+Date: 08/31/2019
+
+Venue: Sprint Center
+Location: Kansas City,New Zealand
+Date: 09/02/2019
+
+Venue: Enterprise Center
+Location: St. Louis,New Zealand
+Date: 09/03/2019
+
+Venue: American Airlines Center
+Location: Dallas,New Zealand
+Date: 09/05/2019
+
+Venue: AT&T Center
+Location: San Antonio,New Zealand
+Date: 09/07/2019
+
+Venue: Toyota Center
+Location: Houston,New Zealand
+Date: 09/08/2019
+
+Venue: Talking Stick Resort Arena
+Location: Phoenix,New Zealand
+Date: 09/10/2019
+
+Venue: Viejas Arena
+Location: San Diego,New Zealand
+Date: 09/11/2019
+
+Venue: The Forum
+Location: Los Angeles,New Zealand
+Date: 09/14/2019
+
+Venue: The Forum
+Location: Los Angeles,New Zealand
+Date: 09/13/2019
+
+Title: The Matrix
+Year: 31 Mar 1999
+IMDB Rating: 8.7
+Rotten Tomatoes Rating: 88%
+Country: USA
+Language: English
+Plot: A computer hacker learns from mysterious rebels about the true nature of his reality and his role in the war against its controllers.
+Actors: Keanu Reeves, Laurence Fishburne, Carrie-Anne Moss, Hugo Weaving
+Title: Mr. Nobody
+Year: 26 Sep 2013
+IMDB Rating: 7.8
+Rotten Tomatoes Rating: 67%
+Country: Belgium, Germany, Canada, France, USA, UK
+Language: English, Mohawk
+Plot: A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible.
+Actors: Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham
+Artist: JANXX
+Song title: Miss Elevator
+Album: JANXX
+Listen: https://open.spotify.com/track/4MVrWFLKPi8C8U70i4Qun1
+
+Artist: Ace of Base
+Song title: The Sign
+Album: The Sign (US Album) [Remastered]
+Listen: https://open.spotify.com/track/0hrBpAOgrt8RXigk83LLNE
+
+Artist: Ace of Base
+Song title: All That She Wants
+Album: The Sign (US Album) [Remastered]
+Listen: https://open.spotify.com/track/6kWJvPfC4DgUpRsXKNa9z9
+
+Artist: Ace of Base
+Song title: The Sign
+Album: Greatest Hits
+Listen: https://open.spotify.com/track/3DYVWvPh3kGwPasp7yjahc
+
+Artist: Ace of Base
+Song title: Happy Nation
+Album: The Sign (US Album) [Remastered]
+Listen: https://open.spotify.com/track/7fb22pjF62S9r1s1pian5K
+
+Artist: Ace of Base
+Song title: Don't Turn Around
+Album: The Sign (US Album) [Remastered]
+Listen: https://open.spotify.com/track/4SYMibQ93bfzOk6uzkF0dO
+
+Artist: Ace of Base
+Song title: Dancer in a Daydream
+Album: The Sign (US Album) [Remastered]
+Listen: https://open.spotify.com/track/56r15mfaTXZoGEYBe2FHur
+
+Artist: Ace of Base
+Song title: Wheel of Fortune
+Album: The Sign (US Album) [Remastered]
+Listen: https://open.spotify.com/track/08bZOAr9YLpCLL0Jmtsgbi
+
+Artist: Ace of Base
+Song title: Waiting for Magic - Total Remix 7" Version
+Album: The Sign (US Album) [Remastered]
+Listen: https://open.spotify.com/track/21ra9MgsyMTrxCvIPObFGL
+
+Artist: Ace of Base
+Song title: Living in Danger
+Album: The Sign (US Album) [Remastered]
+Listen: https://open.spotify.com/track/5ICwDM1fzgqv7HNFUIjPyx
+
+Artist: Ace of Base
+Song title: The Sign
+Album: Happy Nation (U.S. Version) [Remastered]
+Listen: https://open.spotify.com/track/3Gxku40T2RGPqtLYpFAngP
+
+Artist: Ace of Base
+Song title: Voulez-Vous danser
+Album: The Sign (US Album) [Remastered]
+Listen: https://open.spotify.com/track/2F71FlxVyNcoHj3MrHJF5e
+
+Artist: Ace of Base
+Song title: All That She Wants - Banghra Version
+Album: The Sign (US Album) [Remastered]
+Listen: https://open.spotify.com/track/372oGXavXzqZJp5hzXxZlu
+
+Artist: Ace of Base
+Song title: Young and Proud
+Album: The Sign (US Album) [Remastered]
+Listen: https://open.spotify.com/track/6sUq6M1iKXQLZHZqefgtEq
+
+Artist: Ace of Base
+Song title: My Mind - Mindless Mix
+Album: The Sign (US Album) [Remastered]
+Listen: https://open.spotify.com/track/2Ol8ieTGPnzi9kVvZ1f7IN
+
+Artist: Ace of Base
+Song title: Mr Ace - Demo 1991 Bonus Track
+Album: The Sign (US Album) [Remastered]
+Listen: https://open.spotify.com/track/6IcW0DmqcuVESqTIbgkyH8
+
+Artist: Ace of Base
+Song title: The Sign - Long Version
+Album: The Sign (The Remixes)
+Listen: https://open.spotify.com/track/1csXR5Vn2SgOi7cw0lxJv8
+
+Artist: Ace of Base
+Song title: The Sign - Ultimix
+Album: The Sign (The Remixes)
+Listen: https://open.spotify.com/track/3sM1ncxPiL0UCBlIVkb637
+
+Artist: Ace of Base
+Song title: The Sign
+Album: The Sign (The Remixes)
+Listen: https://open.spotify.com/track/3JXzEzQCYrblna7SCaegAm
+
+Artist: Ace of Base
+Song title: The Sign - The Remix
+Album: Classic Remixes
+Listen: https://open.spotify.com/track/1FqcC4PddhouGXkd7wc40l
+
+Artist: Ace of Base
+Song title: The Sign
+Album: The Sign (The Remixes)
+Listen: https://open.spotify.com/track/2ZkiqOy0WpIXRfj1WP9fyg
+
+Artist: Backstreet Boys
+Song title: I Want It That Way
+Album: The Hits--Chapter One
+Listen: https://open.spotify.com/track/6e40mgJiCid5HRAGrbpGA6
+
+Artist: Backstreet Boys
+Song title: I Want It That Way
+Album: Millennium
+Listen: https://open.spotify.com/track/47BBI51FKFwOMlIiX6m8ya
+
+Artist: Anthem Lights
+Song title: I Want It That Way
+Album: Covers Part IV
+Listen: https://open.spotify.com/track/3Ww6kEWxLh4Ub4WPJ9hMtA
+
+Artist: "Weird Al" Yankovic
+Song title: Ebay (Parody of "I Want It That Way" by the Backstreet Boys)
+Album: Poodle Hat
+Listen: https://open.spotify.com/track/4vHb50VkxDzHYwLiHfWczK
+
+Artist: Tyler and Mark
+Song title: I Want It That Way
+Album: Beautiful Dreams
+Listen: https://open.spotify.com/track/7k52T0b1v9ktm2gJwlO5yy
+
+Artist: Various Artists
+Song title: I Want It That Way
+Album: 90 Sweet 90s Hits!
+Listen: https://open.spotify.com/track/1zCiqxhampG4dcC7HEqPu5
+
+Artist: Glee Cast
+Song title: Bye Bye Bye / I Want It That Way (Glee Cast Version)
+Album: Bye Bye Bye / I Want It That Way (Glee Cast Version)
+Listen: https://open.spotify.com/track/3t7m7AzV2ntuI9fIT6KREP
+
+Artist: Manuel Costa
+Song title: I Want It That Way
+Album: I Want It That Way
+Listen: https://open.spotify.com/track/4Sp4RxkWukxqJykl0ySNQi
+
+Artist: Boyce Avenue
+Song title: I Want It That Way
+Album: Cover Sessions, Vol. 2
+Listen: https://open.spotify.com/track/16COzZ7jCVn3O8b8ZgviOx
+
+Artist: Various Artists
+Song title: I Want It That Way
+Album: Punk Goes Pop
+Listen: https://open.spotify.com/track/0F5f29urvisi4TiwJOQZWN
+
+Artist: Steel Panther
+Song title: I Want It That Way
+Album: I Want It That Way
+Listen: https://open.spotify.com/track/0448cNUvZGCAlUpIPO5kdY
+
+Artist: Scary Pockets
+Song title: I Want It That Way
+Album: Nu Funk
+Listen: https://open.spotify.com/track/4IWQXV01Lp0wsXCXo09EBr
+
+Artist: Scott Bradlee's Postmodern Jukebox
+Song title: I Want It That Way
+Album: Selfies on Kodachrome
+Listen: https://open.spotify.com/track/1Le3uYU5NU9cXXtYeSWnEM
+
+Artist: Various Artists
+Song title: I Want It That Way
+Album: Ballads in Bossa (The Colors of Love Ballads)
+Listen: https://open.spotify.com/track/5ZQAX4vaXBxANR1uCRvEsW
+
+Artist: "Weird Al" Yankovic
+Song title: Ebay (Parody of "I Want It That Way" by the Backstreet Boys)
+Album: The Essential "Weird Al" Yankovic
+Listen: https://open.spotify.com/track/1vaico2C72imYowF4Kv04V
+
+Artist: #90s Update
+Song title: I Want It That Way
+Album: #90s Update
+Listen: https://open.spotify.com/track/0rZTeneJh7IM5SdoabMcYA
+
+Artist: Various Artists
+Song title: I Want It That Way
+Album: NOW That's What I Call 90s Pop
+Listen: https://open.spotify.com/track/75W4IDdKhHvRQZpaDx9YPg
+
+Artist: Kyle Olthoff
+Song title: I Want It That Way
+Album: I Want It That Way
+Listen: https://open.spotify.com/track/1UUw0IsDzxCxJ6v0dlygUy
+
+Artist: Scott Bradlee's Postmodern Jukebox
+Song title: I Want It That Way
+Album: PMJ Is For Lovers: The Love Song Collection
+Listen: https://open.spotify.com/track/6FNTpwQU3VNZvezUPYMjPY
+
+Artist: NKOTBSB
+Song title: I Want It That Way
+Album: NKOTBSB
+Listen: https://open.spotify.com/track/2KMwtsWwL5QDtSpm814tju

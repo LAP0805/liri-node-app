@@ -37,12 +37,12 @@ function bands() {
 
     }).catch(function (error) {
         if (error) {
-            console.log("No shows for that band are listed on Spotify")
+            console.log("No shows for that artist are listed on Spotify")
         }
     })
 }
 
-   function song(){
+function song() {
     var song = process.argv.slice(3).join(" ");
     if (song === "") {
         song = "The Sign Ace of Base"
@@ -78,9 +78,9 @@ function bands() {
         .catch(function (error) {
             console.log("Wow, Spotify has never heard of that song! You are a true connoisseur.")
         })
-    }
+}
 
-function movie(){
+function movie() {
 
     var movie = process.argv.slice(3).join(" ");
     if (movie === "") {
@@ -111,9 +111,9 @@ function movie(){
         .catch(function (error) {
             console.log("Hm, we couldn't find that movie, sorry!")
         })
-    }
+}
 
-function doIt(){
+function doIt() {
     fs.readFile("random.txt", "utf8", function (error, data) {
         var split = (data.split(","))
         var song = (split[1])
@@ -145,8 +145,8 @@ function doIt(){
 }
 
 module.exports = {
-   bands : bands,
-   song : song,
-   movie : movie,
-   doIt:doIt
+    bands: bands,
+    song: song,
+    movie: movie,
+    doIt: doIt
 }
