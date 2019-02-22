@@ -22,7 +22,7 @@ function bands() {
                 var location = ("Location: " + response.data[i].venue.city + "," + response.data[0].venue.country)
                 var date = ("Date: " + moment(response.data[i].datetime).format("MM/DD/YYYY"));
 
-                var toWrite = (venue + "\n" + location + "\n" + date + "\n");
+                var toWrite = ("\n" + venue + "\n" + location + "\n" + date + "\n");
                 console.log(toWrite);
 
                 fs.appendFile("log.txt", toWrite, function (err) {
@@ -62,7 +62,7 @@ function bands() {
                     var album = ("Album: " + data.tracks.items[i].album.name);
                     var listen = ("Listen: " + data.tracks.items[i].external_urls.spotify)
 
-                    var toWrite = (artist + "\n" + track + "\n" + album + "\n" + listen + "\n")
+                    var toWrite = ("\n" + artist + "\n" + track + "\n" + album + "\n" + listen + "\n")
                     console.log(toWrite);
 
                     fs.appendFile("log.txt", toWrite, function (error) {
@@ -97,7 +97,7 @@ function movie(){
             var plot = ("Plot: " + response.data.Plot);
             var actors = ("Actors: " + response.data.Actors);
 
-            var toWrite = (title + "\n" + year + "\n" + imdb + "\n" + rotten + "\n" + country + "\n" + language + "\n" + plot + "\n" + actors)
+            var toWrite = ("\n" + title + "\n" + year + "\n" + imdb + "\n" + rotten + "\n" + country + "\n" + language + "\n" + plot + "\n" + actors)
             console.log(toWrite);
 
             fs.appendFile("log.txt", toWrite, function (err) {
@@ -128,7 +128,7 @@ function doIt(){
                 var album = ("Album: " + data.tracks.items[i].album.name);
                 var listen = ("Listen: " + data.tracks.items[i].external_urls.spotify)
 
-                var toWrite = (artist + "\n" + track + "\n" + album + "\n" + listen + "\n")
+                var toWrite = ("\n" + artist + "\n" + track + "\n" + album + "\n" + listen + "\n")
                 console.log(toWrite);
 
                 fs.appendFile("log.txt", toWrite, function (error) {
