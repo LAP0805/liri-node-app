@@ -489,3 +489,1065 @@ Artist: The Karaoke Channel
 Song title: I Want It That Way
 Album: The Karaoke Channel - Sing I Want It That Way Like Backstreet Boys
 Listen: https://open.spotify.com/track/28iMkJsNbnhoc0tR5CBhZ5
+Title: Titanic
+Year: 19 Dec 1997
+IMDB Rating: 7.8
+Rotten Tomatoes Rating: 89%
+Country: USA
+Language: English, Swedish
+Plot: A seventeen-year-old aristocrat falls in love with a kind but poor artist aboard the luxurious, ill-fated R.M.S. Titanic.
+Actors: Leonardo DiCaprio, Kate Winslet, Billy Zane, Kathy BatesVenue: Spark Arena
+Location: Auckland,New Zealand
+Date: 03/23/2019
+Venue: Brisbane Entertainment Centre
+Location: Boondall,New Zealand
+Date: 03/25/2019
+Venue: Singapore Indoor Stadium
+Location: Singapore,New Zealand
+Date: 04/01/2019
+Venue: Rod Laver Arena
+Location: Melbourne,New Zealand
+Date: 03/27/2019
+Venue: IMPACT Arena
+Location: Tambon Ban Mai,New Zealand
+Date: 04/03/2019
+Venue: Indonesia Convention Exhibition
+Location: Tangerang,New Zealand
+Date: 04/05/2019
+Venue: Qudos Bank Arena
+Location: Sydney Olympic Park,New Zealand
+Date: 03/29/2019
+Venue: Hong Kong Convention and Exhibition Center
+Location: Hong Kong,New Zealand
+Date: 04/08/2019
+Venue: Nippon Budokan
+Location: Chiyoda-ku,New Zealand
+Date: 04/11/2019
+Venue: Dead & Company
+Location: Mountain View,New Zealand
+Date: 05/31/2019
+Venue: Dead & Company
+Location: Los Angeles,New Zealand
+Date: 06/03/2019
+Venue: Dead & Company
+Location: Los Angeles,New Zealand
+Date: 06/04/2019
+Venue: Dead & Company
+Location: Mountain View,New Zealand
+Date: 06/01/2019
+Venue: Dead & Company
+Location: Quincy,New Zealand
+Date: 06/07/2019
+Venue: Nippon Budokan
+Location: Chiyoda-ku,New Zealand
+Date: 04/10/2019
+Venue: Dead & Company
+Location: Noblesville,New Zealand
+Date: 06/12/2019
+Venue: Dead & Company
+Location: Quincy,New Zealand
+Date: 06/08/2019
+Venue: Dead & Company
+Location: Chicago,New Zealand
+Date: 06/15/2019
+Venue: Dead & Company
+Location: Saratoga Springs,New Zealand
+Date: 06/18/2019
+Venue: Dead & Company
+Location: Chicago,New Zealand
+Date: 06/14/2019
+Venue: Dead & Company
+Location: Foxborough,New Zealand
+Date: 06/22/2019
+Venue: Dead & Company
+Location: Bristow,New Zealand
+Date: 06/26/2019
+Venue: Dead & Company
+Location: New York,New Zealand
+Date: 06/23/2019
+Venue: Dead & Company
+Location: Charlotte,New Zealand
+Date: 06/28/2019
+Venue: Dead & Company
+Location: Camden,New Zealand
+Date: 06/20/2019
+Venue: Dead & Company
+Location: Atlanta,New Zealand
+Date: 06/29/2019
+Venue: Dead & Company
+Location: Boulder,New Zealand
+Date: 07/06/2019
+Venue: Dead & Company
+Location: Boulder,New Zealand
+Date: 07/05/2019
+Venue: Times Union Center
+Location: Albany,New Zealand
+Date: 07/19/2019
+Venue: Wells Fargo CenteR
+Location: Philadelphia,New Zealand
+Date: 07/22/2019
+Venue: Dunkin Donuts Center
+Location: Providence,New Zealand
+Date: 07/20/2019
+Venue: Madison Square Garden
+Location: New York,New Zealand
+Date: 07/25/2019
+Venue: Dead & Company
+Location: Dallas,New Zealand
+Date: 07/02/2019
+Venue: Madison Square Garden
+Location: New York,New Zealand
+Date: 07/26/2019
+Venue: Scotiabank Arena
+Location: Toronto,New Zealand
+Date: 07/30/2019
+Venue: Capital One Arena
+Location: Washington,New Zealand
+Date: 07/23/2019
+Venue: Scotiabank Arena
+Location: Toronto,New Zealand
+Date: 07/31/2019
+Venue: Little Caesars Arena
+Location: Detroit,New Zealand
+Date: 08/02/2019
+Venue: Schottenstein Center
+Location: Columbus,New Zealand
+Date: 08/03/2019
+Venue: Fiserv Forum
+Location: Milwaukee,New Zealand
+Date: 08/06/2019
+Venue: Xcel Energy Center
+Location: St. Paul,New Zealand
+Date: 08/05/2019
+Venue: Spectrum Center
+Location: Charlotte,New Zealand
+Date: 08/09/2019
+Venue: Bridgestone Arena
+Location: Nashville,New Zealand
+Date: 08/08/2019
+Venue: Bankers Life Fieldhouse
+Location: Indianapolis,New Zealand
+Date: 08/12/2019
+Venue: State Farm Arena
+Location: Atlanta,New Zealand
+Date: 08/11/2019
+Venue: JAS Labor Day Experience
+Location: Snowmass Village,New Zealand
+Date: 08/31/2019
+Venue: PPG Paints Arena
+Location: Pittsburgh,New Zealand
+Date: 07/28/2019
+Venue: United Center
+Location: Chicago,New Zealand
+Date: 08/14/2019
+Venue: Enterprise Center
+Location: St. Louis,New Zealand
+Date: 09/03/2019
+Venue: Sprint Center
+Location: Kansas City,New Zealand
+Date: 09/02/2019
+Venue: American Airlines Center
+Location: Dallas,New Zealand
+Date: 09/05/2019
+Venue: Talking Stick Resort Arena
+Location: Phoenix,New Zealand
+Date: 09/10/2019
+Venue: Viejas Arena
+Location: San Diego,New Zealand
+Date: 09/11/2019
+Venue: AT&T Center
+Location: San Antonio,New Zealand
+Date: 09/07/2019
+Venue: The Forum
+Location: Los Angeles,New Zealand
+Date: 09/14/2019
+Venue: Toyota Center
+Location: Houston,New Zealand
+Date: 09/08/2019
+Venue: The Forum
+Location: Los Angeles,New Zealand
+Date: 09/13/2019
+Artist: Janet Jackson
+Song title: Whoops Now
+Album: Janet
+Listen: https://open.spotify.com/track/6ZLKrubnzVwaC71Zv8IC62
+Artist: NOFX
+Song title: Whoops, I Od'd
+Album: War on Errorism
+Listen: https://open.spotify.com/track/6IzksXiDD172nBJ8gRANbC
+Artist: 12th Planet
+Song title: Whoops (feat. Pennybirdrabbit)
+Album: Murdaaa / Whoops
+Listen: https://open.spotify.com/track/5Gz6YzDviufVHUol06RdZc
+Artist: Kate Tempest
+Song title: Whoops
+Album: Let Them Eat Chaos
+Listen: https://open.spotify.com/track/6Tp1KIRDGcrMKkKTrGWzcM
+Artist: Drakeo the Ruler
+Song title: Whoops I Did It Again
+Album: I Am Mr. Mosely
+Listen: https://open.spotify.com/track/67oBjwzl477vlQisDXH7Ry
+Artist: NOFX
+Song title: Whoops I Od'd - Live
+Album: They've Actually Gotten Worse Live
+Listen: https://open.spotify.com/track/3ZX2ir7kbVuImQ3zKMt592
+Artist: The Blow Monkeys
+Song title: Wait
+Album: Whoops! There Goes The Neighbourhood
+Listen: https://open.spotify.com/track/6yjc9dqQAUZ4qgNjrAuN1Q
+Artist: Whoops
+Song title: Our Old Voicemails
+Album: Our Old Voicemails
+Listen: https://open.spotify.com/track/48kzhibYPooDgQZbfgxsCv
+Artist: Vice Ganda
+Song title: Whoops Kirri - Christmas Version
+Album: Vice Ganda
+Listen: https://open.spotify.com/track/0016r4MRcbuZUXcS31biFf
+Artist: 12th Planet
+Song title: Murdaaa
+Album: Murdaaa / Whoops
+Listen: https://open.spotify.com/track/61Dm5tL7sWH5hPExwwgiqV
+Artist: Blues Traveler
+Song title: Whoops
+Album: Save His Soul
+Listen: https://open.spotify.com/track/31Nvzmc9Ffz7GxranS2ZIs
+Artist: Jimmy Mayo
+Song title: Mt. Chilimanjaro
+Album: Whoops
+Listen: https://open.spotify.com/track/4pZJ1SleUpKnnEIfloAwPj
+Artist: Bea Binene
+Song title: Whoops Kirri
+Album: Dito Sa Puso Ko
+Listen: https://open.spotify.com/track/3ZpW0xZL930v5QaksD03Dt
+Artist: Jimmy Mayo
+Song title: Hand Cramps
+Album: Whoops
+Listen: https://open.spotify.com/track/4Lizld1uMYXNMLd9oUm3R5
+Artist: Dirty Dike
+Song title: Whoops
+Album: Acrylic Snail
+Listen: https://open.spotify.com/track/7xXHdgSjXfZGz2TSS6YPKP
+Artist: Whiskeydick
+Song title: Whoops I Was Drunk
+Album: The Bastard Sons of Texas
+Listen: https://open.spotify.com/track/6N1TXgObUeyhtr4zcTpfDe
+Artist: Sorrier
+Song title: Whoops
+Album: Cough
+Listen: https://open.spotify.com/track/70rRaJvJuW4m9pPqG9Psu0
+Artist: Carl Chase
+Song title: Whoops
+Album: Whoops
+Listen: https://open.spotify.com/track/5pu7W8AAOmXhTYTSH3i6RS
+Artist: Prodigal Son
+Song title: Whoops
+Album: Pure Gold
+Listen: https://open.spotify.com/track/1kh1b0ITdoASmsme9JeJIr
+Artist: Jimmy Mayo
+Song title: Trying
+Album: Whoops
+Listen: https://open.spotify.com/track/10LrGTVqCtMoDL7VxwYano
+Title: Titanic
+Year: 19 Dec 1997
+IMDB Rating: 7.8
+Rotten Tomatoes Rating: 89%
+Country: USA
+Language: English, Swedish
+Plot: A seventeen-year-old aristocrat falls in love with a kind but poor artist aboard the luxurious, ill-fated R.M.S. Titanic.
+Actors: Leonardo DiCaprio, Kate Winslet, Billy Zane, Kathy BatesArtist: Janet Jackson
+Song title: Whoops Now
+Album: Janet
+Listen: https://open.spotify.com/track/6ZLKrubnzVwaC71Zv8IC62
+Artist: NOFX
+Song title: Whoops, I Od'd
+Album: War on Errorism
+Listen: https://open.spotify.com/track/6IzksXiDD172nBJ8gRANbC
+Artist: Kate Tempest
+Song title: Whoops
+Album: Let Them Eat Chaos
+Listen: https://open.spotify.com/track/6Tp1KIRDGcrMKkKTrGWzcM
+Artist: Drakeo the Ruler
+Song title: Whoops I Did It Again
+Album: I Am Mr. Mosely
+Listen: https://open.spotify.com/track/67oBjwzl477vlQisDXH7Ry
+Artist: Dirty Dike
+Song title: Whoops
+Album: Acrylic Snail
+Listen: https://open.spotify.com/track/7xXHdgSjXfZGz2TSS6YPKP
+Artist: 12th Planet
+Song title: Whoops (feat. Pennybirdrabbit)
+Album: Murdaaa / Whoops
+Listen: https://open.spotify.com/track/5Gz6YzDviufVHUol06RdZc
+Artist: The Blow Monkeys
+Song title: Wait
+Album: Whoops! There Goes The Neighbourhood
+Listen: https://open.spotify.com/track/6yjc9dqQAUZ4qgNjrAuN1Q
+Artist: NOFX
+Song title: Whoops I Od'd - Live
+Album: They've Actually Gotten Worse Live
+Listen: https://open.spotify.com/track/3ZX2ir7kbVuImQ3zKMt592
+Artist: Whoops
+Song title: Our Old Voicemails
+Album: Our Old Voicemails
+Listen: https://open.spotify.com/track/48kzhibYPooDgQZbfgxsCv
+Artist: Vice Ganda
+Song title: Whoops Kirri - Christmas Version
+Album: Vice Ganda
+Listen: https://open.spotify.com/track/0016r4MRcbuZUXcS31biFf
+Artist: Jimmy Mayo
+Song title: Mt. Chilimanjaro
+Album: Whoops
+Listen: https://open.spotify.com/track/4pZJ1SleUpKnnEIfloAwPj
+Artist: Blues Traveler
+Song title: Whoops
+Album: Save His Soul
+Listen: https://open.spotify.com/track/31Nvzmc9Ffz7GxranS2ZIs
+Artist: Bea Binene
+Song title: Whoops Kirri
+Album: Dito Sa Puso Ko
+Listen: https://open.spotify.com/track/3ZpW0xZL930v5QaksD03Dt
+Artist: Jimmy Mayo
+Song title: Trying
+Album: Whoops
+Listen: https://open.spotify.com/track/10LrGTVqCtMoDL7VxwYano
+Artist: Jimmy Mayo
+Song title: Hand Cramps
+Album: Whoops
+Listen: https://open.spotify.com/track/4Lizld1uMYXNMLd9oUm3R5
+Artist: Whiskeydick
+Song title: Whoops I Was Drunk
+Album: The Bastard Sons of Texas
+Listen: https://open.spotify.com/track/6N1TXgObUeyhtr4zcTpfDe
+Artist: 12th Planet
+Song title: Murdaaa
+Album: Murdaaa / Whoops
+Listen: https://open.spotify.com/track/61Dm5tL7sWH5hPExwwgiqV
+Artist: Prodigal Son
+Song title: Whoops
+Album: Pure Gold
+Listen: https://open.spotify.com/track/1kh1b0ITdoASmsme9JeJIr
+Artist: Carl Chase
+Song title: Whoops
+Album: Whoops
+Listen: https://open.spotify.com/track/5pu7W8AAOmXhTYTSH3i6RS
+Artist: Sorrier
+Song title: Whoops
+Album: Cough
+Listen: https://open.spotify.com/track/70rRaJvJuW4m9pPqG9Psu0
+Venue: Spark Arena
+Location: Auckland,New Zealand
+Date: 03/23/2019
+Venue: Brisbane Entertainment Centre
+Location: Boondall,New Zealand
+Date: 03/25/2019
+Venue: Singapore Indoor Stadium
+Location: Singapore,New Zealand
+Date: 04/01/2019
+Venue: Qudos Bank Arena
+Location: Sydney Olympic Park,New Zealand
+Date: 03/29/2019
+Venue: Rod Laver Arena
+Location: Melbourne,New Zealand
+Date: 03/27/2019
+Venue: IMPACT Arena
+Location: Tambon Ban Mai,New Zealand
+Date: 04/03/2019
+Venue: Indonesia Convention Exhibition
+Location: Tangerang,New Zealand
+Date: 04/05/2019
+Venue: Nippon Budokan
+Location: Chiyoda-ku,New Zealand
+Date: 04/11/2019
+Venue: Hong Kong Convention and Exhibition Center
+Location: Hong Kong,New Zealand
+Date: 04/08/2019
+Venue: Nippon Budokan
+Location: Chiyoda-ku,New Zealand
+Date: 04/10/2019
+Venue: Dead & Company
+Location: Mountain View,New Zealand
+Date: 06/01/2019
+Venue: Dead & Company
+Location: Mountain View,New Zealand
+Date: 05/31/2019
+Venue: Dead & Company
+Location: Quincy,New Zealand
+Date: 06/07/2019
+Venue: Dead & Company
+Location: Noblesville,New Zealand
+Date: 06/12/2019
+Venue: Dead & Company
+Location: Quincy,New Zealand
+Date: 06/08/2019
+Venue: Dead & Company
+Location: Los Angeles,New Zealand
+Date: 06/04/2019
+Venue: Dead & Company
+Location: Chicago,New Zealand
+Date: 06/15/2019
+Venue: Dead & Company
+Location: Los Angeles,New Zealand
+Date: 06/03/2019
+Venue: Dead & Company
+Location: Saratoga Springs,New Zealand
+Date: 06/18/2019
+Venue: Dead & Company
+Location: Foxborough,New Zealand
+Date: 06/22/2019
+Venue: Dead & Company
+Location: New York,New Zealand
+Date: 06/23/2019
+Venue: Dead & Company
+Location: Camden,New Zealand
+Date: 06/20/2019
+Venue: Dead & Company
+Location: Chicago,New Zealand
+Date: 06/14/2019
+Venue: Dead & Company
+Location: Bristow,New Zealand
+Date: 06/26/2019
+Venue: Dead & Company
+Location: Charlotte,New Zealand
+Date: 06/28/2019
+Venue: Dead & Company
+Location: Dallas,New Zealand
+Date: 07/02/2019
+Venue: Dead & Company
+Location: Boulder,New Zealand
+Date: 07/05/2019
+Venue: Dead & Company
+Location: Boulder,New Zealand
+Date: 07/06/2019
+Venue: Times Union Center
+Location: Albany,New Zealand
+Date: 07/19/2019
+Venue: Wells Fargo CenteR
+Location: Philadelphia,New Zealand
+Date: 07/22/2019
+Venue: Dunkin Donuts Center
+Location: Providence,New Zealand
+Date: 07/20/2019
+Venue: Capital One Arena
+Location: Washington,New Zealand
+Date: 07/23/2019
+Venue: Madison Square Garden
+Location: New York,New Zealand
+Date: 07/25/2019
+Venue: Madison Square Garden
+Location: New York,New Zealand
+Date: 07/26/2019
+Venue: Dead & Company
+Location: Atlanta,New Zealand
+Date: 06/29/2019
+Venue: Scotiabank Arena
+Location: Toronto,New Zealand
+Date: 07/30/2019
+Venue: PPG Paints Arena
+Location: Pittsburgh,New Zealand
+Date: 07/28/2019
+Venue: Little Caesars Arena
+Location: Detroit,New Zealand
+Date: 08/02/2019
+Venue: Schottenstein Center
+Location: Columbus,New Zealand
+Date: 08/03/2019
+Venue: Scotiabank Arena
+Location: Toronto,New Zealand
+Date: 07/31/2019
+Venue: Xcel Energy Center
+Location: St. Paul,New Zealand
+Date: 08/05/2019
+Venue: Bridgestone Arena
+Location: Nashville,New Zealand
+Date: 08/08/2019
+Venue: State Farm Arena
+Location: Atlanta,New Zealand
+Date: 08/11/2019
+Venue: Spectrum Center
+Location: Charlotte,New Zealand
+Date: 08/09/2019
+Venue: Fiserv Forum
+Location: Milwaukee,New Zealand
+Date: 08/06/2019
+Venue: Bankers Life Fieldhouse
+Location: Indianapolis,New Zealand
+Date: 08/12/2019
+Venue: JAS Labor Day Experience
+Location: Snowmass Village,New Zealand
+Date: 08/31/2019
+Venue: United Center
+Location: Chicago,New Zealand
+Date: 08/14/2019
+Venue: Sprint Center
+Location: Kansas City,New Zealand
+Date: 09/02/2019
+Venue: American Airlines Center
+Location: Dallas,New Zealand
+Date: 09/05/2019
+Venue: Enterprise Center
+Location: St. Louis,New Zealand
+Date: 09/03/2019
+Venue: Talking Stick Resort Arena
+Location: Phoenix,New Zealand
+Date: 09/10/2019
+Venue: Viejas Arena
+Location: San Diego,New Zealand
+Date: 09/11/2019
+Venue: AT&T Center
+Location: San Antonio,New Zealand
+Date: 09/07/2019
+Venue: The Forum
+Location: Los Angeles,New Zealand
+Date: 09/13/2019
+Venue: The Forum
+Location: Los Angeles,New Zealand
+Date: 09/14/2019
+Venue: Toyota Center
+Location: Houston,New Zealand
+Date: 09/08/2019
+Artist: Backstreet Boys
+Song title: I Want It That Way
+Album: The Hits--Chapter One
+Listen: https://open.spotify.com/track/6e40mgJiCid5HRAGrbpGA6
+Artist: Tyler and Mark
+Song title: I Want It That Way
+Album: Beautiful Dreams
+Listen: https://open.spotify.com/track/7k52T0b1v9ktm2gJwlO5yy
+Artist: Backstreet Boys
+Song title: I Want It That Way
+Album: Millennium
+Listen: https://open.spotify.com/track/47BBI51FKFwOMlIiX6m8ya
+Artist: "Weird Al" Yankovic
+Song title: Ebay (Parody of "I Want It That Way" by the Backstreet Boys)
+Album: Poodle Hat
+Listen: https://open.spotify.com/track/4vHb50VkxDzHYwLiHfWczK
+Artist: Anthem Lights
+Song title: I Want It That Way
+Album: Covers Part IV
+Listen: https://open.spotify.com/track/3Ww6kEWxLh4Ub4WPJ9hMtA
+Artist: Various Artists
+Song title: I Want It That Way
+Album: Punk Goes Pop
+Listen: https://open.spotify.com/track/0F5f29urvisi4TiwJOQZWN
+Artist: Various Artists
+Song title: I Want It That Way
+Album: 90 Sweet 90s Hits!
+Listen: https://open.spotify.com/track/1zCiqxhampG4dcC7HEqPu5
+Artist: Glee Cast
+Song title: Bye Bye Bye / I Want It That Way (Glee Cast Version)
+Album: Bye Bye Bye / I Want It That Way (Glee Cast Version)
+Listen: https://open.spotify.com/track/3t7m7AzV2ntuI9fIT6KREP
+Artist: Boyce Avenue
+Song title: I Want It That Way
+Album: Cover Sessions, Vol. 2
+Listen: https://open.spotify.com/track/16COzZ7jCVn3O8b8ZgviOx
+Artist: Manuel Costa
+Song title: I Want It That Way
+Album: I Want It That Way
+Listen: https://open.spotify.com/track/4Sp4RxkWukxqJykl0ySNQi
+Artist: Steel Panther
+Song title: I Want It That Way
+Album: I Want It That Way
+Listen: https://open.spotify.com/track/0448cNUvZGCAlUpIPO5kdY
+Artist: Scary Pockets
+Song title: I Want It That Way
+Album: Nu Funk
+Listen: https://open.spotify.com/track/4IWQXV01Lp0wsXCXo09EBr
+Artist: Various Artists
+Song title: I Want It That Way
+Album: Ballads in Bossa (The Colors of Love Ballads)
+Listen: https://open.spotify.com/track/5ZQAX4vaXBxANR1uCRvEsW
+Artist: "Weird Al" Yankovic
+Song title: Ebay (Parody of "I Want It That Way" by the Backstreet Boys)
+Album: The Essential "Weird Al" Yankovic
+Listen: https://open.spotify.com/track/1vaico2C72imYowF4Kv04V
+Artist: Scott Bradlee's Postmodern Jukebox
+Song title: I Want It That Way
+Album: Selfies on Kodachrome
+Listen: https://open.spotify.com/track/1Le3uYU5NU9cXXtYeSWnEM
+Artist: #90s Update
+Song title: I Want It That Way
+Album: #90s Update
+Listen: https://open.spotify.com/track/0rZTeneJh7IM5SdoabMcYA
+Artist: Various Artists
+Song title: I Want It That Way
+Album: NOW That's What I Call 90s Pop
+Listen: https://open.spotify.com/track/75W4IDdKhHvRQZpaDx9YPg
+Artist: Scott Bradlee's Postmodern Jukebox
+Song title: I Want It That Way
+Album: PMJ Is For Lovers: The Love Song Collection
+Listen: https://open.spotify.com/track/6FNTpwQU3VNZvezUPYMjPY
+Artist: Kyle Olthoff
+Song title: I Want It That Way
+Album: I Want It That Way
+Listen: https://open.spotify.com/track/1UUw0IsDzxCxJ6v0dlygUy
+Artist: NKOTBSB
+Song title: I Want It That Way
+Album: NKOTBSB
+Listen: https://open.spotify.com/track/2KMwtsWwL5QDtSpm814tju
+Venue: Spark Arena
+Location: Auckland,New Zealand
+Date: 03/23/2019
+Venue: Qudos Bank Arena
+Location: Sydney Olympic Park,New Zealand
+Date: 03/29/2019
+Venue: Brisbane Entertainment Centre
+Location: Boondall,New Zealand
+Date: 03/25/2019
+Venue: Singapore Indoor Stadium
+Location: Singapore,New Zealand
+Date: 04/01/2019
+Venue: IMPACT Arena
+Location: Tambon Ban Mai,New Zealand
+Date: 04/03/2019
+Venue: Rod Laver Arena
+Location: Melbourne,New Zealand
+Date: 03/27/2019
+Venue: Nippon Budokan
+Location: Chiyoda-ku,New Zealand
+Date: 04/10/2019
+Venue: Hong Kong Convention and Exhibition Center
+Location: Hong Kong,New Zealand
+Date: 04/08/2019
+Venue: Nippon Budokan
+Location: Chiyoda-ku,New Zealand
+Date: 04/11/2019
+Venue: Dead & Company
+Location: Mountain View,New Zealand
+Date: 05/31/2019
+Venue: Dead & Company
+Location: Los Angeles,New Zealand
+Date: 06/03/2019
+Venue: Dead & Company
+Location: Mountain View,New Zealand
+Date: 06/01/2019
+Venue: Indonesia Convention Exhibition
+Location: Tangerang,New Zealand
+Date: 04/05/2019
+Venue: Dead & Company
+Location: Los Angeles,New Zealand
+Date: 06/04/2019
+Venue: Dead & Company
+Location: Quincy,New Zealand
+Date: 06/08/2019
+Venue: Dead & Company
+Location: Noblesville,New Zealand
+Date: 06/12/2019
+Venue: Dead & Company
+Location: Chicago,New Zealand
+Date: 06/15/2019
+Venue: Dead & Company
+Location: Quincy,New Zealand
+Date: 06/07/2019
+Venue: Dead & Company
+Location: Chicago,New Zealand
+Date: 06/14/2019
+Venue: Dead & Company
+Location: Saratoga Springs,New Zealand
+Date: 06/18/2019
+Venue: Dead & Company
+Location: Foxborough,New Zealand
+Date: 06/22/2019
+Venue: Dead & Company
+Location: New York,New Zealand
+Date: 06/23/2019
+Venue: Dead & Company
+Location: Charlotte,New Zealand
+Date: 06/28/2019
+Venue: Dead & Company
+Location: Bristow,New Zealand
+Date: 06/26/2019
+Venue: Dead & Company
+Location: Boulder,New Zealand
+Date: 07/05/2019
+Venue: Dead & Company
+Location: Boulder,New Zealand
+Date: 07/06/2019
+Venue: Times Union Center
+Location: Albany,New Zealand
+Date: 07/19/2019
+Venue: Dunkin Donuts Center
+Location: Providence,New Zealand
+Date: 07/20/2019
+Venue: Wells Fargo CenteR
+Location: Philadelphia,New Zealand
+Date: 07/22/2019
+Venue: Capital One Arena
+Location: Washington,New Zealand
+Date: 07/23/2019
+Venue: Dead & Company
+Location: Camden,New Zealand
+Date: 06/20/2019
+Venue: Madison Square Garden
+Location: New York,New Zealand
+Date: 07/25/2019
+Venue: Madison Square Garden
+Location: New York,New Zealand
+Date: 07/26/2019
+Venue: Dead & Company
+Location: Dallas,New Zealand
+Date: 07/02/2019
+Venue: PPG Paints Arena
+Location: Pittsburgh,New Zealand
+Date: 07/28/2019
+Venue: Scotiabank Arena
+Location: Toronto,New Zealand
+Date: 07/30/2019
+Venue: Little Caesars Arena
+Location: Detroit,New Zealand
+Date: 08/02/2019
+Venue: Schottenstein Center
+Location: Columbus,New Zealand
+Date: 08/03/2019
+Venue: Scotiabank Arena
+Location: Toronto,New Zealand
+Date: 07/31/2019
+Venue: Fiserv Forum
+Location: Milwaukee,New Zealand
+Date: 08/06/2019
+Venue: Bridgestone Arena
+Location: Nashville,New Zealand
+Date: 08/08/2019
+Venue: Xcel Energy Center
+Location: St. Paul,New Zealand
+Date: 08/05/2019
+Venue: Dead & Company
+Location: Atlanta,New Zealand
+Date: 06/29/2019
+Venue: State Farm Arena
+Location: Atlanta,New Zealand
+Date: 08/11/2019
+Venue: Bankers Life Fieldhouse
+Location: Indianapolis,New Zealand
+Date: 08/12/2019
+Venue: JAS Labor Day Experience
+Location: Snowmass Village,New Zealand
+Date: 08/31/2019
+Venue: United Center
+Location: Chicago,New Zealand
+Date: 08/14/2019
+Venue: Sprint Center
+Location: Kansas City,New Zealand
+Date: 09/02/2019
+Venue: Enterprise Center
+Location: St. Louis,New Zealand
+Date: 09/03/2019
+Venue: American Airlines Center
+Location: Dallas,New Zealand
+Date: 09/05/2019
+Venue: Spectrum Center
+Location: Charlotte,New Zealand
+Date: 08/09/2019
+Venue: AT&T Center
+Location: San Antonio,New Zealand
+Date: 09/07/2019
+Venue: Toyota Center
+Location: Houston,New Zealand
+Date: 09/08/2019
+Venue: Talking Stick Resort Arena
+Location: Phoenix,New Zealand
+Date: 09/10/2019
+Venue: The Forum
+Location: Los Angeles,New Zealand
+Date: 09/14/2019
+Venue: Viejas Arena
+Location: San Diego,New Zealand
+Date: 09/11/2019
+Venue: The Forum
+Location: Los Angeles,New Zealand
+Date: 09/13/2019
+Venue: Beer Study
+Location: Durham,United States
+Date: 05/08/2019
+Venue: The Cave
+Location: Chapel Hill,United States
+Date: 05/17/2019
+Title: Titanic
+Year: 19 Dec 1997
+IMDB Rating: 7.8
+Rotten Tomatoes Rating: 89%
+Country: USA
+Language: English, Swedish
+Plot: A seventeen-year-old aristocrat falls in love with a kind but poor artist aboard the luxurious, ill-fated R.M.S. Titanic.
+Actors: Leonardo DiCaprio, Kate Winslet, Billy Zane, Kathy BatesTitle: The Matrix
+Year: 31 Mar 1999
+IMDB Rating: 8.7
+Rotten Tomatoes Rating: 88%
+Country: USA
+Language: English
+Plot: A computer hacker learns from mysterious rebels about the true nature of his reality and his role in the war against its controllers.
+Actors: Keanu Reeves, Laurence Fishburne, Carrie-Anne Moss, Hugo WeavingTitle: Mr. Nobody
+Year: 26 Sep 2013
+IMDB Rating: 7.8
+Rotten Tomatoes Rating: 67%
+Country: Belgium, Germany, Canada, France, USA, UK
+Language: English, Mohawk
+Plot: A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible.
+Actors: Jared Leto, Sarah Polley, Diane Kruger, Linh Dan PhamArtist: analog
+Song title: Hellagood
+Album: Extended Pleasure
+Listen: https://open.spotify.com/track/453RTRd4oK3aHm0YyHxRCW
+Artist: Charttraxx Karaoke
+Song title: Hellagood - Karaoke Version in the style of No Doubt
+Album: Charthits Karaoke : The Very Best of the Year 2002, Vol. 2
+Listen: https://open.spotify.com/track/57pNRL7zq9DW2XIDwBxzRI
+Artist: Golden Bear Karaoke
+Song title: Hellagood (Karaoke Version) - Originally Performed By No Doubt
+Album: Karaoke Pop Hits, Vol. 23
+Listen: https://open.spotify.com/track/1RHFX9s4mwytBtyLd74re6
+Artist: Off The Record Karaoke
+Song title: Hellagood (In the Style of No Doubt) [Karaoke Version]
+Album: Hellagood (In the Style of No Doubt) [Karaoke Version]
+Listen: https://open.spotify.com/track/1fCR6y6XFaBPDUsO475w3o
+Artist: Off The Record Karaoke
+Song title: Hellagood (In the Style of No Doubt) [Karaoke Version]
+Album: Hellagood (In the Style of No Doubt) [Karaoke Version]
+Listen: https://open.spotify.com/track/1fCR6y6XFaBPDUsO475w3o
+Artist: Golden Bear Karaoke
+Song title: Hellagood (Karaoke Version) - Originally Performed By No Doubt
+Album: Karaoke Pop Hits, Vol. 23
+Listen: https://open.spotify.com/track/1RHFX9s4mwytBtyLd74re6
+Artist: Charttraxx Karaoke
+Song title: Hellagood - Karaoke Version in the style of No Doubt
+Album: Charthits Karaoke : The Very Best of the Year 2002, Vol. 2
+Listen: https://open.spotify.com/track/57pNRL7zq9DW2XIDwBxzRI
+Artist: Elevator Fight Club
+Song title: Little Miss Perfect
+Album: Little Miss Perfect
+Listen: https://open.spotify.com/track/3xsYn7ypkZG0sZIhIcTV5v
+Artist: Elevator Fight Club
+Song title: Little Miss Perfect
+Album: Elevator Fight Club
+Listen: https://open.spotify.com/track/3cO2d8ICAp03AUJ6zRGSH1
+Artist: Jeanne Robertson
+Song title: Miss NC's daddy on the elevator
+Album: Talkin' Funny
+Listen: https://open.spotify.com/track/22g5Xv1HwL23p7WzrSMmSj
+Artist: Fat Dojo
+Song title: Miss Elevator
+Album: Tomorrow Girls
+Listen: https://open.spotify.com/track/6MyYQzIhNtiEu8dN640PwQ
+Artist: Miss TK & The Revenge
+Song title: Elevator
+Album: XOXO
+Listen: https://open.spotify.com/track/6vTJrYUbGCfZhOs1yc9oLR
+Artist: Cami Galles
+Song title: Elevator (feat. Miss Alex White)
+Album: Elevator (feat. Miss Alex White)
+Listen: https://open.spotify.com/track/2SIwRSkMnZPGEtnAmY521w
+Artist: JANXX
+Song title: Miss Elevator
+Album: JANXX
+Listen: https://open.spotify.com/track/4MVrWFLKPi8C8U70i4Qun1
+Artist: Thomas Foltz
+Song title: Mr Elevator - Original Mix
+Album: Feet Movement EP
+Listen: https://open.spotify.com/track/3pCiRzpkvQU4IKVJwk6xrP
+Artist: Various Artists
+Song title: Mr Elevator - Original Mix
+Album: The Best Of Hutman
+Listen: https://open.spotify.com/track/7F55G8a2ftguteuj7fZ1qR
+Artist: The Elevator Girls in Bondage Orchestra
+Song title: Miss Sally's Jungle Music
+Album: Elevator Girls In Bondage (Original Soundtrack)
+Listen: https://open.spotify.com/track/1yd3wux0JXBi979QqAzldB
+Artist: Fashion
+Song title: 09 Home (feat. Miss Montoya & Elevator Greg)
+Album: F.A.D.E.D. By 9pm
+Listen: https://open.spotify.com/track/0EDIu8FdhASG7ctKVOu9nO
+Artist: Various Artists
+Song title: Mr Elevator - Original Mix
+Album: Hutman Essentials Tech Vol 4
+Listen: https://open.spotify.com/track/3Mb9lJaxQfykKWISXmKf1V
+Artist: Various Artists
+Song title: 19 Let Go (feat. Miss Katie)
+Album: Elevator Music Entertainment Presents Unification
+Listen: https://open.spotify.com/track/0a3SEwFap8fU3KzHEuD5iw
+Artist: Ameritz - Tributes
+Song title: Love in an Elevator
+Album: I Don't Wanna Miss a Thing - A Tribute to Aerosmith
+Listen: https://open.spotify.com/track/0TTKD3aifOIMQX1sEbdAer
+Artist: Various Artists
+Song title: Jean (from "The Prime of Miss Jean Brodie")
+Album: Reader's Digest Music: Going Down? Vol. 9: More Elevator Pop (A Retro Ride)
+Listen: https://open.spotify.com/track/5guM5EFgIYlaWFofBnsGPW
+Artist: Ameritz - Tributes
+Song title: Love in an Elevator
+Album: I Don't Wanna Miss a Thing - A Tribute to Aerosmith
+Listen: https://open.spotify.com/track/42KIKSKTV4O9mttoB3ueTV
+Artist: Elevator Action
+Song title: Miss Congeniality
+Album: Society, Secret
+Listen: https://open.spotify.com/track/5DRUrFGc0EkPwZ7lot2zwi
+Artist: JANXX
+Song title: Miss Elevator
+Album: JANXX
+Listen: https://open.spotify.com/track/4MVrWFLKPi8C8U70i4Qun1
+Artist: Ace of Base
+Song title: The Sign
+Album: The Sign (US Album) [Remastered]
+Listen: https://open.spotify.com/track/0hrBpAOgrt8RXigk83LLNE
+Artist: Ace of Base
+Song title: All That She Wants
+Album: The Sign (US Album) [Remastered]
+Listen: https://open.spotify.com/track/6kWJvPfC4DgUpRsXKNa9z9
+Artist: Ace of Base
+Song title: Happy Nation
+Album: The Sign (US Album) [Remastered]
+Listen: https://open.spotify.com/track/7fb22pjF62S9r1s1pian5K
+Artist: Ace of Base
+Song title: The Sign
+Album: Greatest Hits
+Listen: https://open.spotify.com/track/3DYVWvPh3kGwPasp7yjahc
+Artist: Ace of Base
+Song title: Wheel of Fortune
+Album: The Sign (US Album) [Remastered]
+Listen: https://open.spotify.com/track/08bZOAr9YLpCLL0Jmtsgbi
+Artist: Ace of Base
+Song title: Don't Turn Around
+Album: The Sign (US Album) [Remastered]
+Listen: https://open.spotify.com/track/4SYMibQ93bfzOk6uzkF0dO
+Artist: Ace of Base
+Song title: Living in Danger
+Album: The Sign (US Album) [Remastered]
+Listen: https://open.spotify.com/track/5ICwDM1fzgqv7HNFUIjPyx
+Artist: Ace of Base
+Song title: Dancer in a Daydream
+Album: The Sign (US Album) [Remastered]
+Listen: https://open.spotify.com/track/56r15mfaTXZoGEYBe2FHur
+Artist: Ace of Base
+Song title: Waiting for Magic - Total Remix 7" Version
+Album: The Sign (US Album) [Remastered]
+Listen: https://open.spotify.com/track/21ra9MgsyMTrxCvIPObFGL
+Artist: Ace of Base
+Song title: The Sign
+Album: Happy Nation (U.S. Version) [Remastered]
+Listen: https://open.spotify.com/track/3Gxku40T2RGPqtLYpFAngP
+Artist: Ace of Base
+Song title: Young and Proud
+Album: The Sign (US Album) [Remastered]
+Listen: https://open.spotify.com/track/6sUq6M1iKXQLZHZqefgtEq
+Artist: Ace of Base
+Song title: All That She Wants - Banghra Version
+Album: The Sign (US Album) [Remastered]
+Listen: https://open.spotify.com/track/372oGXavXzqZJp5hzXxZlu
+Artist: Ace of Base
+Song title: My Mind - Mindless Mix
+Album: The Sign (US Album) [Remastered]
+Listen: https://open.spotify.com/track/2Ol8ieTGPnzi9kVvZ1f7IN
+Artist: Ace of Base
+Song title: Mr Ace - Demo 1991 Bonus Track
+Album: The Sign (US Album) [Remastered]
+Listen: https://open.spotify.com/track/6IcW0DmqcuVESqTIbgkyH8
+Artist: Ace of Base
+Song title: The Sign - Long Version
+Album: The Sign (The Remixes)
+Listen: https://open.spotify.com/track/1csXR5Vn2SgOi7cw0lxJv8
+Artist: Ace of Base
+Song title: Voulez-Vous danser
+Album: The Sign (US Album) [Remastered]
+Listen: https://open.spotify.com/track/2F71FlxVyNcoHj3MrHJF5e
+Artist: Ace of Base
+Song title: The Sign
+Album: The Sign (The Remixes)
+Listen: https://open.spotify.com/track/2ZkiqOy0WpIXRfj1WP9fyg
+Artist: Ace of Base
+Song title: The Sign - Ultimix
+Album: The Sign (The Remixes)
+Listen: https://open.spotify.com/track/3sM1ncxPiL0UCBlIVkb637
+Artist: Ace of Base
+Song title: The Sign
+Album: The Sign (The Remixes)
+Listen: https://open.spotify.com/track/3JXzEzQCYrblna7SCaegAm
+Artist: Ace of Base
+Song title: The Sign - The Remix
+Album: Classic Remixes
+Listen: https://open.spotify.com/track/1FqcC4PddhouGXkd7wc40l
+Artist: Backstreet Boys
+Song title: I Want It That Way
+Album: The Hits--Chapter One
+Listen: https://open.spotify.com/track/6e40mgJiCid5HRAGrbpGA6
+Artist: Backstreet Boys
+Song title: I Want It That Way
+Album: Millennium
+Listen: https://open.spotify.com/track/47BBI51FKFwOMlIiX6m8ya
+Artist: Tyler and Mark
+Song title: I Want It That Way
+Album: Beautiful Dreams
+Listen: https://open.spotify.com/track/7k52T0b1v9ktm2gJwlO5yy
+Artist: Anthem Lights
+Song title: I Want It That Way
+Album: Covers Part IV
+Listen: https://open.spotify.com/track/3Ww6kEWxLh4Ub4WPJ9hMtA
+Artist: Various Artists
+Song title: I Want It That Way
+Album: 90 Sweet 90s Hits!
+Listen: https://open.spotify.com/track/1zCiqxhampG4dcC7HEqPu5
+Artist: "Weird Al" Yankovic
+Song title: Ebay (Parody of "I Want It That Way" by the Backstreet Boys)
+Album: Poodle Hat
+Listen: https://open.spotify.com/track/4vHb50VkxDzHYwLiHfWczK
+Artist: Glee Cast
+Song title: Bye Bye Bye / I Want It That Way (Glee Cast Version)
+Album: Bye Bye Bye / I Want It That Way (Glee Cast Version)
+Listen: https://open.spotify.com/track/3t7m7AzV2ntuI9fIT6KREP
+Artist: NKOTBSB
+Song title: I Want It That Way
+Album: NKOTBSB
+Listen: https://open.spotify.com/track/2KMwtsWwL5QDtSpm814tju
+Artist: Various Artists
+Song title: I Want It That Way
+Album: Punk Goes Pop
+Listen: https://open.spotify.com/track/0F5f29urvisi4TiwJOQZWN
+Artist: Manuel Costa
+Song title: I Want It That Way
+Album: I Want It That Way
+Listen: https://open.spotify.com/track/4Sp4RxkWukxqJykl0ySNQi
+Artist: Steel Panther
+Song title: I Want It That Way
+Album: I Want It That Way
+Listen: https://open.spotify.com/track/0448cNUvZGCAlUpIPO5kdY
+Artist: Boyce Avenue
+Song title: I Want It That Way
+Album: Cover Sessions, Vol. 2
+Listen: https://open.spotify.com/track/16COzZ7jCVn3O8b8ZgviOx
+Artist: Scott Bradlee's Postmodern Jukebox
+Song title: I Want It That Way
+Album: Selfies on Kodachrome
+Listen: https://open.spotify.com/track/1Le3uYU5NU9cXXtYeSWnEM
+Artist: "Weird Al" Yankovic
+Song title: Ebay (Parody of "I Want It That Way" by the Backstreet Boys)
+Album: The Essential "Weird Al" Yankovic
+Listen: https://open.spotify.com/track/1vaico2C72imYowF4Kv04V
+Artist: Scary Pockets
+Song title: I Want It That Way
+Album: Nu Funk
+Listen: https://open.spotify.com/track/4IWQXV01Lp0wsXCXo09EBr
+Artist: Various Artists
+Song title: I Want It That Way
+Album: NOW That's What I Call 90s Pop
+Listen: https://open.spotify.com/track/75W4IDdKhHvRQZpaDx9YPg
+Artist: #90s Update
+Song title: I Want It That Way
+Album: #90s Update
+Listen: https://open.spotify.com/track/0rZTeneJh7IM5SdoabMcYA
+Artist: Scott Bradlee's Postmodern Jukebox
+Song title: I Want It That Way
+Album: PMJ Is For Lovers: The Love Song Collection
+Listen: https://open.spotify.com/track/6FNTpwQU3VNZvezUPYMjPY
+Artist: Various Artists
+Song title: I Want It That Way
+Album: Ballads in Bossa (The Colors of Love Ballads)
+Listen: https://open.spotify.com/track/5ZQAX4vaXBxANR1uCRvEsW
+Artist: Kyle Olthoff
+Song title: I Want It That Way
+Album: I Want It That Way
+Listen: https://open.spotify.com/track/1UUw0IsDzxCxJ6v0dlygUy
+Title: Titanic
+Year: 19 Dec 1997
+IMDB Rating: 7.8
+Rotten Tomatoes Rating: 89%
+Country: USA
+Language: English, Swedish
+Plot: A seventeen-year-old aristocrat falls in love with a kind but poor artist aboard the luxurious, ill-fated R.M.S. Titanic.
+Actors: Leonardo DiCaprio, Kate Winslet, Billy Zane, Kathy Bates
